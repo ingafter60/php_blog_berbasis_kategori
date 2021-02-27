@@ -34,3 +34,17 @@ https://github.com/ingafter60/php_blog_berbasis_kategory
         modified:   README.md
         modifikasi dilakukan agar daftar file yg di posting
         /commit ke github lebih mudah dibaca
+
+## 3. Mengkonversi file html menjadi file PHP
+
+### 3.1.4 Mengganti ekstensi file dari html ke php
+
+        modified:   README.md
+        renamed:    about.html -> about.php
+        renamed:    categories.html -> categories.php
+        renamed:    contact.html -> contact.php
+        renamed:    index.html -> index.php
+        renamed:    page.html -> page.php
+        renamed:    search.html -> search.php
+        renamed:    single.html -> single.php
+
