@@ -14,7 +14,9 @@ https://github.com/ingafter60/php_blog_berbasis_kategory
         new file:   README.md		
 
 
-## 2.1.2 Menambahkan html template ke dlm folder proyek
+## 2. HTML Template
+
+### 2.1.2 Menambahkan html template ke dlm folder proyek
 
         modified:   README.md
         new file:   about.html
@@ -25,3 +27,10 @@ https://github.com/ingafter60/php_blog_berbasis_kategory
         new file:   page.html
         new file:   search.html
         new file:   single.html
+
+
+### 2.2.3 Modifikasi / perbaikan README.md file
+
+        modified:   README.md
+        modifikasi dilakukan agar daftar file yg di posting
+        /commit ke github lebih mudah dibaca
