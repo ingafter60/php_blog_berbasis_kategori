@@ -12,3 +12,16 @@ https://github.com/ingafter60/php_blog_berbasis_kategory
 		https://github.com/ingafter60/php_blog_berbasis_kategory
         new file:   .gitignore
         new file:   README.md		
+
+
+## 2.1.2 Menambahkan html template ke dlm folder proyek
+
+        modified:   README.md
+        new file:   about.html
+        ...
+        new file:   categories.html
+        new file:   contact.html
+        new file:   index.html
+        new file:   page.html
+        new file:   search.html
+        new file:   single.html
